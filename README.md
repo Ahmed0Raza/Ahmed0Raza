@@ -1,9 +1,6 @@
-
-# <div align="center">👨‍💻 Ahmed Raza</div>
-
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4C71F2&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi%2C+my+name+is+Ahmed+Raza;I+am+a+Software+Engineer)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=56F2B7&background=FF9EB700&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi%2C+my+name+is+Ahmed+Raza;I+am+a+Software+Engineer)
 
 </div>
 
@@ -40,11 +37,5 @@ I am a software engineer and student with expertise in the MERN stack (MongoDB, 
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed0raza/)
-  
-</div>
-
-<div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=ahmed0raza&color=blue&style=flat-square)
   
 </div>
