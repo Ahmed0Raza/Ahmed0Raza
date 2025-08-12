@@ -47,8 +47,5 @@ Currently, I have extensive experience with **Docker**, container orchestration 
 
 ## 🌐 Connect With Me
 
-<div align="center">
-  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed0raza/)
 
-</div>
