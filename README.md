@@ -36,9 +36,6 @@ Currently, I have extensive experience with **Docker**, container orchestration 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-
----
-
 ### **☁ DevOps & Infrastructure**
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -47,8 +44,6 @@ Currently, I have extensive experience with **Docker**, container orchestration 
 ![Shell Script](https://img.shields.io/badge/-Shell_Scripting-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/-CI%2FCD-000000?style=for-the-badge&logo=gitlab&logoColor=white)
-
----
 
 ## 🌐 Connect With Me
 
