@@ -35,6 +35,8 @@ Currently, I have extensive experience with **Docker**, container orchestration 
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Alembic](https://img.shields.io/badge/-Alembic-0052CC?style=for-the-badge&logo=python&logoColor=white)
+
 
 ### **☁ DevOps & Infrastructure**
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
